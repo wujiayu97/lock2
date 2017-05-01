@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main (void){
 
-    printf("hel") ;
+    printf("yui") ;
     
     return 0 ;
 }
